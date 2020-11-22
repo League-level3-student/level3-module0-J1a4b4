@@ -2,8 +2,6 @@ package _00_IntroToArrays;
 
 import java.util.Random;
 
-import javax.swing.JOptionPane;
-
 import org.jointheleague.graphical.robot.Robot;
 
 public class _01_RobotRace {
